@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-f9a82": {
+      "hosting": {
+        "my-dream-app": [
+          "mydream-2020"
+        ]
+      }
+    }
+  }
+}
